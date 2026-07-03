@@ -67,7 +67,17 @@ O trabalho de engenharia de dados culmina em um dashboard interativo construído
 
 Este repositório serve como o material de apoio oficial para as alunas do bootcamp, mas também como uma peça do meu portfólio, demonstrando a criação de um projeto de dados end-to-end com foco em didática e boas práticas de engenharia.
 
-Eu sou **Paula Luiza**, Analista de Sistemas/Dados e Educadora, apaixonada por capacitar mais mulheres para a área de tecnologia. Desenvolvi e ministrei este módulo com o objetivo de fornecer uma experiência de aprendizado prática, relevante e inspiradora.
+Eu sou **Paula Luiza**, Cientista da Computação e Educadora, apaixonada por capacitar mais mulheres para a área de tecnologia. Desenvolvi e ministrei este módulo com o objetivo de fornecer uma experiência de aprendizado prática, relevante e inspiradora.
 
 **Conecte-se comigo:**
 *   **LinkedIn:** https://www.linkedin.com/in/paulalcssantos
+
+---
+
+## ⚠️ Direitos Autorais e Termos de Uso
+
+**© 2026 Paula Luiza / WoMakersCode. Todos os direitos reservados.**
+
+Este repositório é de caráter **proprietário e educacional restrito**. 
+*   **Visualização e Consulta:** Permitidas para fins de portfólio e estudo individual das alunas oficiais do bootcamp.
+*   **Proibido:** A cópia, clonagem, modificação, redistribuição ou uso de qualquer parte deste código para fins comerciais, criação de cursos derivados ou publicações externas sem a autorização prévia por escrito da autora e da organização parceira.
